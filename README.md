@@ -1,8 +1,8 @@
 # Bikcraft
 A handcrafted custom bicycle company website.
-<div align="center">
-![Bikcraft Logo](https://github.com/danielaversa/bikcraft/blob/main/og-image.png "Bikcraft Logo") 
-</div>
+<p align="center">
+  <img width="300" height="300" src="https://github.com/danielaversa/bikcraft/blob/main/og-image.png" alt="Bikcraft Logo">
+</p>
 ## The Project
 Bikcraft was design and developed during the course *Complete Web Design* at the [Origamid](https://www.origamid.com/) platform. It is a clone from the original design by [André Rafael](https://github.com/origamid).
 
